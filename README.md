@@ -1,2 +1,0 @@
-# ald
-Assembly Language Debugger
